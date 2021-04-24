@@ -2,9 +2,9 @@
 banner:
   title: Making Your Ecosystem Secure <br> Last start with Drexel Unviversity
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: RedWolf is designed by a team of Drexel University Students. The platform
+    provides a Eagle nest view of the devices on the university's digital ecosystem.
+    It provides list of vulnerabilities and way to connect the dots.
   button:
     enable: true
     label: Contact With Us
