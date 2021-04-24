@@ -1,7 +1,6 @@
 ---
 banner:
-  title: Make Drexel University Better with RedWolf <br> Monitering Drexel University
-    like a charm
+  title: Making Your Ecosystem Secure <br> Last start with Drexel Unviversity
   image: images/banner-art.svg
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
     maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
