@@ -4,7 +4,7 @@ banner:
   image: images/banner-art.svg
   content: RedWolf is designed by a team of Drexel University Students. The platform
     provides a Eagle nest view of the devices on the university's digital ecosystem.
-    It provides list of vulnerabilities and way to connect the dots.
+    It provides list of vulnerabilities and way to connect the dots. HARIS JALAL TEST
   button:
     enable: true
     label: Contact With Us
